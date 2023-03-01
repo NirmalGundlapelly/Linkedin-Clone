@@ -1,6 +1,7 @@
 body{
   overflow-y: scroll;
   overflow-x: hidden;
+  /* outline: 1px solid black; */
 }
 
 :root, body, html {
@@ -16,4 +17,8 @@ div, h1, h2, h3, h4, h5, h6, header, html, i, img, label, li, nav, p, small, spa
   font-size: 100%;
   vertical-align: baseline;
   background: transparent;
+}
+
+body{
+  font-family: Arial, sans-serif;
 }
