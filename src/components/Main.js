@@ -258,7 +258,7 @@ const SocialCounts = styled.ul`
     font-size: 12px;
     button {
       display: flex;
-      justify-content: center;
+      /* justify-content: center; */
       align-items: center;
       span {
         margin-top: 2px;
