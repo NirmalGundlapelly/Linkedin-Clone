@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import Header from "./Header";
 import Leftside from "./Leftside";
 import Main from "./Main";
 import Righside from "./Rightside";

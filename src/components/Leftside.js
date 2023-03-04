@@ -33,7 +33,7 @@ const Leftside = (props) => {
 
       <CommunityCard>
         <a>
-          <spam>Groups</spam>
+          <span>Groups</span>
         </a>
         <a>
           <span>
